@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A simple bmi calculator mobile application made with flutter and dart.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
